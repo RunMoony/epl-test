@@ -33,7 +33,7 @@ const MyButton = styled.a`
     transition: transform 0.15s ease-out, box-shadow 0.15s ease-out;
   }
   &:hover {
-    background: #ffe9e9;
+    background: #e3d8f8;
     transform: translateY(0.25em);
   }
 `
