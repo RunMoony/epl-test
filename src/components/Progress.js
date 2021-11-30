@@ -4,7 +4,7 @@ import "./Progress.css"
 export function Progress({ page, maxPage }) {
   return (
     <div className="progress">
-      <div classNmae="page">
+      <div className="page">
         {page}/{maxPage}
       </div>
       <div className="gauge">

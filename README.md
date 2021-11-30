@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# EPL-TEST
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+URL : [Create React App](https://epl-test.netlify.app/).
 
 ## Available Scripts
 
